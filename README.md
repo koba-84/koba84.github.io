@@ -1,6 +1,6 @@
 # Ryoma Kobayashi
 
-Source for my personal website: <https://koba-84.github.io>.
+Source for my personal website: <https://koba-84.github.io/koba84.github.io/>.
 
 The site is built with Jekyll and the [al-folio](https://github.com/alshedivat/al-folio) academic website starter. It was adapted from [haiiliin/haiiliin.github.io](https://github.com/haiiliin/haiiliin.github.io). The original MIT license and copyright notice are retained in [LICENSE](LICENSE).
 
