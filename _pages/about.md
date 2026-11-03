@@ -25,3 +25,9 @@ latest_posts:
 I am a master's student at Hokkaido University's Graduate School of Information Science and Technology, affiliated with the Knowledge Base Laboratory. I previously studied Information Electronics at Hokkaido University's School of Engineering.
 
 [GitHub](https://github.com/koba-84) · [LinkedIn](https://www.linkedin.com/in/ryoma-kobayashi-13ab9b23b/)
+
+## 学歴
+
+- 北海道大学大学院 情報科学院 情報科学専攻（2025年4月–現在）— Master’s student, Graduate School of Information Science and Technology, Hokkaido University
+  - 知識ベース研究室 (Knowledge Base Laboratory)
+- 北海道大学 工学部 情報エレクトロニクス学科（2021年4月–2025年3月）— Undergraduate studies, School of Engineering, Hokkaido University
