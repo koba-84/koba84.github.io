@@ -7,10 +7,6 @@ first_name: Ryoma
 middle_name: ""
 last_name: Kobayashi（小林 稜馬）
 contact_note: ""
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ryoma Kobayashi（小林 稜馬） studies at Hokkaido University and works on knowledge graph completion and multi-label classification.
 footer_text: >
