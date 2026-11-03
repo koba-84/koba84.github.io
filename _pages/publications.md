@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: 研究業績 / Publications
-description: 研究業績 / Publications by category in reverse chronological order.
 nav: true
 nav_order: 3
 ---
