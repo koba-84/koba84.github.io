@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Information Science and Technology, School of Engineering, Hokkaido University
+subtitle: Master's student at Hokkaido University
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,8 +20,8 @@ latest_posts:
 
 ## Ryoma Kobayashi
 
-北海道大学 工学部 情報エレクトロニクス学科の学生です。
+北海道大学大学院情報科学院の修士課程に在籍し、知識ベース研究室に所属しています。学部では北海道大学工学部情報エレクトロニクス学科で学びました。
 
-I am a student in the Department of Information Science and Technology, School of Engineering, Hokkaido University.
+I am a master's student at Hokkaido University's Graduate School of Information Science and Technology, affiliated with the Knowledge Base Laboratory. I previously studied Information Electronics at Hokkaido University's School of Engineering.
 
-[GitHub: koba-84](https://github.com/koba-84)
+[GitHub](https://github.com/koba-84) · [LinkedIn](https://www.linkedin.com/in/ryoma-kobayashi-13ab9b23b/)

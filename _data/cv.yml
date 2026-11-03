@@ -1,8 +1,25 @@
 cv:
   name: Ryoma Kobayashi
-  headline: Student in the Department of Information Science and Technology, School of Engineering, Hokkaido University
+  headline: Master's student at Hokkaido University
   website: https://koba-84.github.io
   social_networks:
     - network: GitHub
       username: koba-84
-  sections: {}
+    - network: LinkedIn
+      username: ryoma-kobayashi-13ab9b23b
+  sections:
+    Education:
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        area: Information Science and Technology
+        studyType: Master's student
+        start_date: 2025-04
+        end_date: 2027-03
+        highlights:
+          - Knowledge Base Laboratory
+      - institution: Hokkaido University
+        location: Sapporo, Japan
+        area: Information Electronics, School of Engineering
+        studyType: Undergraduate study
+        start_date: 2021-04
+        end_date: 2025-03
