@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ryoma Kobayashi # the website title (if blank, full name will be used instead)
+title: Ryoma Kobayashi（小林 稜馬） # the website title (if blank, full name will be used instead)
 first_name: Ryoma
 middle_name: ""
-last_name: Kobayashi
+last_name: Kobayashi（小林 稜馬）
 contact_note: ""
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ryoma Kobayashi is a master's student at Hokkaido University's Graduate School of Information Science and Technology and a member of the Knowledge Base Laboratory.
+  Ryoma Kobayashi（小林 稜馬） studies at Hokkaido University and works on knowledge graph completion and multi-label classification.
 footer_text: >
   Built with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
-keywords: Ryoma Kobayashi, Hokkaido University, Information Science and Technology
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: Ryoma Kobayashi, 小林稜馬, Hokkaido University, Knowledge Graphs, Multi-label Classification
+lang: ja # Japanese is the primary language; English translations follow Japanese text.
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 

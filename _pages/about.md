@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student at Hokkaido University
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -18,16 +17,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Ryoma Kobayashi
+## 学歴 / Education
 
-北海道大学大学院情報科学院の修士課程に在籍し、知識ベース研究室に所属しています。学部では北海道大学工学部情報エレクトロニクス学科で学びました。
+- **修士課程：** 北海道大学大学院 情報科学院 情報科学専攻（2025年4月–現在）、知識ベース研究室
+  - **M.S. student:** Graduate School of Information Science and Technology, Hokkaido University (April 2025–present), Knowledge Base Laboratory
+- **学部：** 北海道大学 工学部 情報エレクトロニクス学科（2021年4月–2025年3月）
+  - **Undergraduate:** Department of Information Electronics, School of Engineering, Hokkaido University (April 2021–March 2025)
 
-I am a master's student at Hokkaido University's Graduate School of Information Science and Technology, affiliated with the Knowledge Base Laboratory. I previously studied Information Electronics at Hokkaido University's School of Engineering.
+## 研究業績 / Publications
 
-[GitHub](https://github.com/koba-84) · [LinkedIn](https://www.linkedin.com/in/ryoma-kobayashi-13ab9b23b/)
+### 2026
 
-## 学歴
+- **小林稜馬・李吉屹。**「マルチラベル分類への教師あり対照学習適用におけるラベル共起を用いた負例への重み付け」。『言語処理学会 第32回年次大会 発表論文集』, pp. 2686–2690 (2026)。[論文 PDF](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C6-10.pdf)
+  - **英訳 / English translation:** “Weighting Negative Examples Using Label Co-occurrence for Supervised Contrastive Learning in Multi-label Classification.” *Proceedings of the 32nd Annual Meeting of the Association for Natural Language Processing*, pp. 2686–2690 (2026).
 
-- 北海道大学大学院 情報科学院 情報科学専攻（2025年4月–現在）— Master’s student, Graduate School of Information Science and Technology, Hokkaido University
-  - 知識ベース研究室 (Knowledge Base Laboratory)
-- 北海道大学 工学部 情報エレクトロニクス学科（2021年4月–2025年3月）— Undergraduate studies, School of Engineering, Hokkaido University
+### 2025
+
+- **小林稜馬・吉岡真治。**「時間変化を前提とした知識グラフ補完の評価の枠組み」。『人工知能学会全国大会論文集』第39回, セッション 2Win5-20 (2025)。[J-STAGE](https://doi.org/10.11517/pjsai.JSAI2025.0_2Win520)
+  - **英訳 / English translation:** “A Framework for Evaluating Knowledge Graph Completion Across Different Time Slices.” *Proceedings of the 39th Annual Conference of the Japanese Society for Artificial Intelligence*, session 2Win5-20 (2025).
