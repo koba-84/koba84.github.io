@@ -11,4 +11,5 @@ sitemap: false
 
 - [プロフィール・学歴]({{ '/' | absolute_url }})
 - [研究業績]({{ '/publications/' | absolute_url }})
+- [研究業績のBibTeX（テキスト）]({{ '/publications.txt' | absolute_url }})
 - [研究業績のBibTeX]({{ '/publications.bib' | absolute_url }})
