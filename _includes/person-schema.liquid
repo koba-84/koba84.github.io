@@ -1,0 +1,38 @@
+{% assign homepage_url = '/' | absolute_url %}
+{% assign person_id = homepage_url | append: '#person' %}
+{% assign website_id = homepage_url | append: '#website' %}
+{% assign same_as = '' | split: '' %}
+{% if site.data.socials.github_username %}
+  {% capture github_url %}https://github.com/{{ site.data.socials.github_username }}{% endcapture %}
+  {% assign same_as = same_as | push: github_url %}
+{% endif %}
+{% if site.data.socials.linkedin_username %}
+  {% capture linkedin_url %}https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}{% endcapture %}
+  {% assign same_as = same_as | push: linkedin_url %}
+{% endif %}
+{% capture image_path %}/assets/img/{{ page.profile.image }}{% endcapture %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": {{ page.schema.name | jsonify }},
+      "alternateName": {{ page.schema.alternate_name | jsonify }},
+      "url": {{ homepage_url | jsonify }},
+      "description": {{ site.description | strip | jsonify }},
+      "image": {{ image_path | absolute_url | jsonify }},
+      "sameAs": {{ same_as | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "url": {{ homepage_url | jsonify }},
+      "inLanguage": {{ site.lang | jsonify }},
+      "author": { "@id": {{ person_id | jsonify }} }
+    }
+  ]
+}
+</script>
