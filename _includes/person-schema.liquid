@@ -10,6 +10,10 @@
   {% capture linkedin_url %}https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}{% endcapture %}
   {% assign same_as = same_as | push: linkedin_url %}
 {% endif %}
+{% if site.data.socials.scholar_userid %}
+  {% capture scholar_url %}https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}{% endcapture %}
+  {% assign same_as = same_as | push: scholar_url %}
+{% endif %}
 {% capture image_path %}/assets/img/{{ page.profile.image }}{% endcapture %}
 <script type="application/ld+json">
 {
